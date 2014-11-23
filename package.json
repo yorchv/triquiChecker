@@ -1,0 +1,30 @@
+{
+  "name": "Triqui",
+  "version": "0.0.0",
+  "description": "Triqui ( Tic Tac Toe in Colombia) is a little program to play TTT against the computer",
+  "main": "TBA",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/yorchv/triquiChecker.git"
+  },
+  "keywords": [
+    "games",
+    "artificial",
+    "inteligence",
+    "javascript"
+  ],
+  "author": "Yorch Vivas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yorchv/triquiChecker/issues"
+  },
+  "homepage": "https://github.com/yorchv/triquiChecker",
+  "dependencies": {
+    "browserify": "^6.3.2",
+    "gulp": "^3.8.10",
+    "vinyl-source-stream": "^1.0.0"
+  }
+}
